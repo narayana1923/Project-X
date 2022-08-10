@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.footer-menu-list {
+    list-style: none;
+}
+.footer a{
+    text-decoration: none;
+    color: rgb(0, 162, 255);
+}
+.copy-rights a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.copy-rights a:hover{
+    color: white;
+}
+.copy-rights i{
+    color: blue;
+}
+.copy-rights i:hover{
+    color: white;
+    background-color: black;
+    border-top-right-radius: 95%;
+    border-top-left-radius: 95%;
+}
